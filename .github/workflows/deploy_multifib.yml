@@ -13,16 +13,16 @@ jobs:
         include:
           - dockerfile: ./Dockerfile
             context: client
-            image: spg51/lab:fib-client
+            image: kubynovv/zadanie2:fib-client
           - dockerfile: ./Dockerfile
             context: server
-            image: spg51/lab:fib-server
+            image: kubynovv/zadanie2:fib-server
           - dockerfile: ./Dockerfile
             context: worker
-            image: spg51/lab:fib-worker
+            image: kubynovv/zadanie2:fib-worker
           - dockerfile: ./Dockerfile
             context: nginx
-            image: spg51/lab:fib-router  
+            image: kubynovv/zadanie2:fib-router  
     
     steps:
 
