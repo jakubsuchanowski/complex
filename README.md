@@ -11,3 +11,5 @@ studenta i adresem, pod którym wyświetlono tą stronę.
 ![image](https://user-images.githubusercontent.com/82946460/215314401-8dfb7d85-e002-49a5-8da6-8bc42dc2cd87.png)
 
 
+
+
