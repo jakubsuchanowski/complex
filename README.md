@@ -12,4 +12,7 @@ studenta i adresem, pod którym wyświetlono tą stronę.
 
 
 
-
+# Zadanie nieobowiązkowe 2 
+# Pierwsza część: 
+aws ec2 describe-instances 
+![image](https://user-images.githubusercontent.com/82946460/215314742-0a57b50c-2b8a-4843-8552-c3992ca44e87.png)
