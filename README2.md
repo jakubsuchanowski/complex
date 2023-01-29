@@ -18,3 +18,4 @@ Pierwsza część:
 ![image](https://user-images.githubusercontent.com/82946460/215315686-7a1c9071-23e6-4094-b967-9d5c7d6ba454.png)
 
 - aws elasticache describe-cache-clusters --cache-cluster-id multifib-redis
+![image](https://user-images.githubusercontent.com/82946460/215315966-92e2dca6-5967-4b71-9d9e-c4ba29239e26.png)
